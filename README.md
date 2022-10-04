@@ -20,10 +20,10 @@ content is verified.
 ## Plugins :
   On your terminal, Be sure to add these 
    
-   * Gatsby-image:
+   * Gatsby-image:<br/>
        npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem gatsby-transformer-sharp
        
-   * Styled-Components:
+   * Styled-Components:<br/>
        npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components
    
   
