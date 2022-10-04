@@ -16,3 +16,14 @@ content is verified.
 
   * Install Gatsby: <br/>
      npm install -g gatsby-cli 
+     
+## Plugins :
+  On your terminal, Be sure to add these 
+   
+   * Gatsby-image:
+       npm install gatsby-plugin-image gatsby-plugin-sharp gatsby-source-filesystem gatsby-transformer-sharp
+       
+   * Styled-Components:
+       npm install gatsby-plugin-styled-components styled-components babel-plugin-styled-components
+   
+  
